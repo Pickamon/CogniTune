@@ -1,0 +1,16 @@
+# Model weights - too large for GitHub
+cognitune-qwen2.5-3b/
+*.safetensors
+*.bin
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# macOS
+.DS_Store
+
+# HuggingFace cache
+~/.cache/huggingface/
